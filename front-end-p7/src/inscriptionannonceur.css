@@ -1,0 +1,80 @@
+body {
+ font-family: 'Raleway', sans-serif;
+ font-weight: 300;
+}
+.container-annonce {
+  width: 100%;
+
+}
+
+h4{
+
+  justify-content: flex-start;
+}
+.nomdelentreprise{
+  border:1px solid black;
+  width:24%;
+  height: 4vh;
+  margin-top: 2%;
+}
+
+.titreannonce{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 5%;
+}
+
+.titredupostea{
+  margin: 2%;
+    font-family: 'Raleway', sans-serif;
+
+    text-align: center;
+
+    border: solid 1px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+}
+.formtitreduposte {
+ border:1px solid black;
+ width:25%;
+ height: 4vh;
+}
+.formville {
+  border:1px solid black;
+  width:24%;
+  height: 4vh;
+}
+
+.typedecontrat {
+  appearance: none;
+  background-color: #fff;
+}
+
+.descriptionposte{
+  border:1px solid black;
+  width:25%;
+  height: 10vh;
+}
+
+.formdispo{
+  border:1px solid black;
+  width:5%;
+  height: 4vh;
+  margin: 2vh;
+}
+
+.btnannonce {
+margin-top: 2%;
+width: 10%;
+height: 7vh;
+font-weight: bold;
+color: white;
+background-color: #009688;
+border-radius: 5px;
+}
+
+.btnannonce:hover {
+background-color:#00796B;
+
+}
